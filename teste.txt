@@ -1,1 +1,2 @@
-arquivo criado para testar o commit no git
+1-Arquivo criado para testar o commit no git
+2-Esta segunda linha de texto foi criada para testar um segundo commit para o mesmo arquivo após uma alteração no conteúdo.
