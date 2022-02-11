@@ -1,0 +1,15 @@
+Guia para criar um token de autenticação para o caso de erro de autenticação ao efetuar o push
+
+Se ao tentar fazer o push para atualizar o repositorio remoto e aparecer a frase abaixo...
+	{
+	 $ git push
+	 Username for 'https://github.com': cldeus
+	 Password for 'https://cldeus@github.com': 
+	 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+	 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+	 fatal: Authentication failed for 'https://github.com/cldeus/dio.git/'
+	}
+
+Umas das soluções será criar um token de acesso: Acesse o link abaixo e siga o passo a passo:
+https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
